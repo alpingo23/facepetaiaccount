@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pet Face AI - Account Deletion Request</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f8f8f8;
+      color: #333;
+      padding: 2rem;
+      max-width: 700px;
+      margin: auto;
+      line-height: 1.6;
+    }
+    h1 {
+      color: #6C63FF;
+    }
+    .button {
+      background-color: #6C63FF;
+      color: white;
+      padding: 12px 20px;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      margin-top: 20px;
+    }
+    .button:hover {
+      background-color: #574fcf;
+    }
+  </style>
+</head>
+<body>
+  <h1>Pet Face AI – Account Deletion Request</h1>
+
+  <p>
+    If you wish to request deletion of your account and associated data from the <strong>Pet Face AI</strong> app, please email us at:
+  </p>
+
+  <p>
+    📧 <a href="mailto:support@petfaceai.com">support@petfaceai.com</a>
+  </p>
+
+  <p>
+    In your email, please include:
+    <ul>
+      <li>Your user ID or the email associated with your account</li>
+      <li>Your referral code (if available)</li>
+      <li>Any additional relevant information</li>
+    </ul>
+  </p>
+
+  <p>
+    Once we receive your request, your account and all related data will be deleted within 7 business days.
+  </p>
+
+  <h2>What data will be deleted?</h2>
+  <p>
+    - Uploaded images (face & pet photos)<br>
+    - Compatibility analysis results<br>
+    - Referral information<br>
+    - Your unique user ID and stored preferences
+  </p>
+
+  <h2>What data may be retained?</h2>
+  <p>
+    In compliance with legal requirements and fraud prevention policies, some anonymized metadata may be retained for internal analysis.
+  </p>
+
+  <p>
+    If you have any further questions or concerns, feel free to contact us.
+  </p>
+
+  <a class="button" href="mailto:alpipekciler@gmail.com">Request Account Deletion</a>
+</body>
+</html>
